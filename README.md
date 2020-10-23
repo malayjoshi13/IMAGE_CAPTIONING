@@ -47,3 +47,4 @@ There find the folder "github_malay_image_captioning". Click on it and now you h
 
 **STEP 6)** Now inside "github_malay_image_captioning" folder you will see one Google Colab file named "testing_image_captioning.ipynb". Open that file and in "step7" inside that file replace path of default test image to path of image you want model to generate caption of. Run all the code snippets and you will get the generated caption of your image.<br>
 ![bandicam 2020-10-23 15-09-04-407](https://user-images.githubusercontent.com/71775151/96989377-37e9e680-1543-11eb-98f3-840c8247f0b6.jpg)<br>
+![bandicam 2020-10-23 15-25-33-152](https://user-images.githubusercontent.com/71775151/96990095-4553a080-1544-11eb-8cbf-4637be5eb090.jpg)<br>
