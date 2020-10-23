@@ -57,8 +57,8 @@ Open that file and in "step7" inside that file replace path of default test imag
 
 ## Ohh I am glad you have come back. 
 I know after generating caption all by yourself you will be too amazed and ofcourse loaded with tones of questions about how it is been done? How I trained my model to do so?<br><br>
-So to answer all your queries I would like you to first right click on this link and open it new tab:- https://drive.google.com/drive/folders/188biLoItb0OyD91hVLMDqKSjD7sbDdYh?usp=sharing. Then go to "Shared with me". There you will see foldernamed "Flickr8k_Dataset". Right clickon that and click on "Add shortcut on drive". Then come back to main page of google drice by clicking on "My Drive". Here find "Flickr8k_Dataset" folder. Right click on it and click on "move to" an select "github_malay_image_captioning" .<br>
-In this way you will combine "Flickr8k_Dataset" folder to "github_malay_image_captioning".<br>
+So to answer all your queries I would like you to first right click on this link and open it new tab:- https://drive.google.com/drive/folders/188biLoItb0OyD91hVLMDqKSjD7sbDdYh?usp=sharing. Then go to "Shared with me". There you will see foldernamed "Flickr8k_Dataset". Right click on that and click on "Add shortcut on drive". Then come back to main page of google drice by clicking on "My Drive". Here you will find shortcut to "Flickr8k_Dataset" folder.<br>
+After this go to "github_malay_image_captioning" and open "training_image_captioning.ipynb" <br>
 
 Now after this you have 2 options:-<br>
 **First option** :- See the code, understand it's explanation and run all code cells except those which have comment of **don't run**. Doing this you will understand that how model was generating the captions and also the evaluation result that how well model is generating the captions for images it hasn't seen during training period.<br><br>
