@@ -51,12 +51,22 @@ Open that file and in "step7" inside that file replace path of default test imag
 ![bandicam 2020-10-23 15-25-33-152](https://user-images.githubusercontent.com/71775151/96990095-4553a080-1544-11eb-8cbf-4637be5eb090.jpg)<br>
 
 ## What are you now waiting for? Just follow above steps and see what "image captioning system" are capable of..<br>
-## And please come back to this same place. Something more exciting is waiting for you!!
+## And please come back to this same place. Something more exciting is waiting for you!!<br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 
 ## Ohh I am glad you have come back. 
 I know after generating caption all by yourself you will be too amazed and ofcourse loaded with tones of questions about how it is been done? How I trained my model to do so?<br><br>
-So to answer all your queries I would like you to  
+So to answer all your queries I would like you to first click on link:- https://drive.google.com/drive/folders/188biLoItb0OyD91hVLMDqKSjD7sbDdYh?usp=sharing. And combine this folder to "github_malay_image_captioning".<br>
+
+Now after this you have 2 options:-<br>
+**First option** :- See the code, understand it's explanation and run all code cells except those which have comment of **don't run**. Doing this you will understand that how model was generating the captions and also the evaluation result that how well model is generating the captions for images it hasn't seen during training period.<br><br>
+
+**Second option** :- See the code, understand it's explanation, change the hyperparamters, load a new training dataset and run all code cells to look for ways to enhance the accuracy of caption generation process.
+
+## With this I woulk like to end the journey you did with me across different stages of code for "automated image captioning system".
+**Pull requests for making this system more enhanced are warmly welcome. And I would really enjoy to answer any of the issues you face while dealing with this code.**<br><br><br>
+**Will meet soon with a new journey of code."
+
 
 
