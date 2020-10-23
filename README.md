@@ -29,7 +29,7 @@ Now, I think I have told you enough about limitations of my model as of present 
 ## Time to give you first hand experience of generating caption for image of you choice, but consider the note I have given above.
 Ok so to make you try it on your own I would like you to follow these 7 steps. But please don't be in excitement to just start implementing the first of 7 steps. First please read them all and then start implementing. So let's begin:-
 
-**STEP 1)** Click on this link:- https://drive.google.com/drive/folders/1Nw4H5rttfy1O8Qf-GIGkqUOBeyoHKSOg?usp=sharing .<br><br>
+**STEP 1)** Right click on this link and open it new tab:- https://drive.google.com/drive/folders/1Nw4H5rttfy1O8Qf-GIGkqUOBeyoHKSOg?usp=sharing .<br><br>
 
 **STEP 2)** Now open your Google Drive in new tab of your browser and click on "Shared with me" present at your left hand side.<br>
 ![bandicam 2020-10-23 14-01-58-491](https://user-images.githubusercontent.com/71775151/96978348-e4c06580-153b-11eb-9f9c-c29abd226b99.jpg)<br><br>
@@ -57,7 +57,7 @@ Open that file and in "step7" inside that file replace path of default test imag
 
 ## Ohh I am glad you have come back. 
 I know after generating caption all by yourself you will be too amazed and ofcourse loaded with tones of questions about how it is been done? How I trained my model to do so?<br><br>
-So to answer all your queries I would like you to first click on link:- https://drive.google.com/drive/folders/188biLoItb0OyD91hVLMDqKSjD7sbDdYh?usp=sharing. And combine this folder to "github_malay_image_captioning".<br>
+So to answer all your queries I would like you to first right click on this link and open it new tab:- https://drive.google.com/drive/folders/188biLoItb0OyD91hVLMDqKSjD7sbDdYh?usp=sharing. And combine this folder to "github_malay_image_captioning".<br>
 
 Now after this you have 2 options:-<br>
 **First option** :- See the code, understand it's explanation and run all code cells except those which have comment of **don't run**. Doing this you will understand that how model was generating the captions and also the evaluation result that how well model is generating the captions for images it hasn't seen during training period.<br><br>
