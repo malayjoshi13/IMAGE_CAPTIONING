@@ -27,6 +27,7 @@ And before moving ahead towards code, I would let you know that I could have tra
 Now, I think I have told you enough about limitations of my model as of present state, but to be honest this model isn't that bad.
 
 ## Time to give you first hand experience of generating caption for image of you choice, but consider the note I have given above.
-Ok so to make you try it on your own I would like you to copy the trained weights and some essential pickeled weights to your Google drive. No need to worry just follow thefollowing steps:-
+Ok so to make you try it on your own I would like you to copy the trained weights and some essential pickeled weights to your Google Drive. No need to worry just follow the following steps:-
 
-**step 1)**
+**STEP 1)** Click on this link:- https://drive.google.com/drive/folders/1Nw4H5rttfy1O8Qf-GIGkqUOBeyoHKSOg?usp=sharing. 
+STEP 2) Now open your Google Drive and click on "Shared with me" present at your left hand side.
