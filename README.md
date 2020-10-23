@@ -66,7 +66,7 @@ Now after this you have 2 options:-<br>
 
 ## With this I woulk like to end the journey you did with me across different stages of code for "automated image captioning system".
 **Pull requests for making this system more enhanced are warmly welcome. And I would really enjoy to answer any of the issues you face while dealing with this code.**<br><br><br>
-**Will meet soon with a new journey of code."
+**Will meet soon with a new journey of code.**
 
 
 
