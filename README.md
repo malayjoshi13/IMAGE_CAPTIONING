@@ -1,6 +1,6 @@
 # AUTOMATED IMAGE CAPTIONING SYSTEM
 
-Let's imagine one day while going to market you get to see a blind man finding it difficult to cross the road crowded with people and vechiles. How you will help that person in this situation. One way to help is to first ask his permission, make him hold your arm and then help him to cross the road. But is it permanent solution? What about the situation if heis not enough comfortable to accept your help and hold your arm? Or what if there is no one around him to offer such help?
+Let's imagine one day while going to market you get to see a blind man finding it difficult to cross the road crowded with people and vehicles. How you will help that person in this situation. One way to help is to first ask for his permission, make him hold your arm and then help him to cross the road. But is it permanent solution? What about the situation if heis not enough comfortable to accept your help and hold your arm? Or what if there is no one around him to offer such help?
 
 One of the possible permanent solution is of "automated guiding system", which is under research and development. This system in near future will take input of a captured video from eye-wear or head-gear used by blind people and will give a decription about ongoing activities in that video in form of text format captions which will then be converted to audio format. 
 
@@ -27,7 +27,7 @@ And before moving ahead towards code, I would let you know that I could have tra
 Now, I think I have told you enough about limitations of my model as of present state, but to be honest this model isn't that bad.
 
 ## Time to give you first hand experience of generating caption for image of you choice, but consider the note I have given above.
-Ok so to make you try it on your own I would like you to copy the trained weights and some essential pickeled weights to your Google Drive. No need to worry just follow the following steps:-
+Ok so to make you try it on your own I would like you to follow these 7 steps. But please don't be in excitement to just start implementing the first of 7 steps. First please read them all and then start implementing. So let's begin:-
 
 **STEP 1)** Click on this link:- https://drive.google.com/drive/folders/1Nw4H5rttfy1O8Qf-GIGkqUOBeyoHKSOg?usp=sharing .<br><br>
 
@@ -50,5 +50,13 @@ There find the folder "github_malay_image_captioning". Click on it and now you h
 Open that file and in "step7" inside that file replace path of default test image to path of image you want model to generate caption of. Run all the code snippets and you will get the generated caption of your image.<br>
 ![bandicam 2020-10-23 15-25-33-152](https://user-images.githubusercontent.com/71775151/96990095-4553a080-1544-11eb-8cbf-4637be5eb090.jpg)<br>
 
-## What are you waiting for now? Just follow above steps and see what "image captioning system" are capable of..<br>
-## Do come back to this same place something more exciting is waiting for you!!
+## What are you now waiting for? Just follow above steps and see what "image captioning system" are capable of..<br>
+## And please come back to this same place. Something more exciting is waiting for you!!
+
+
+
+## Ohh I am glad you have come back. 
+I know after generating caption all by yourself you will be too amazed and ofcourse loaded with tones of questions about how it is been done? How I trained my model to do so?<br><br>
+So to answer all your queries I would like you to  
+
+
