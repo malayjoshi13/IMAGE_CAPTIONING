@@ -29,7 +29,7 @@ Now, I think I have told you enough about limitations of my model as of present 
 ## Time to give you first hand experience of generating caption for image of you choice, but consider the note I have given above.
 Ok so to make you try it on your own I would like you to copy the trained weights and some essential pickeled weights to your Google Drive. No need to worry just follow the following steps:-
 
-**STEP 1)** Click on this link:- https://drive.google.com/drive/folders/1Nw4H5rttfy1O8Qf-GIGkqUOBeyoHKSOg?usp=sharing.<br><br>
+**STEP 1)** Click on this link:- https://drive.google.com/drive/folders/1Nw4H5rttfy1O8Qf-GIGkqUOBeyoHKSOg?usp=sharing .<br><br>
 **STEP 2)** Now open your Google Drive in new tab of your browser and click on "Shared with me" present at your left hand side.<br>
 ![bandicam 2020-10-23 14-01-58-491](https://user-images.githubusercontent.com/71775151/96978348-e4c06580-153b-11eb-9f9c-c29abd226b99.jpg)<br><br>
 **STEP 3)** Inside "Shared with me" you will see the folder named "github_malay_image_captioning".<br>
