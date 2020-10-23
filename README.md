@@ -20,6 +20,13 @@ But before contributing any idea to this ongoing research we have to first under
 
 Well in a minute I will let you to experience this amazing moment all by yourself but before that I want to re-state the meaning of "any image" as of present situation. See as this model/system is trained on "Flick8k" dataset with just 8,000 images thus you can't expect it to be so generalised that it will understand each object in picture correctly everytime. 
 
-Still have question that 8,000 images are sooo much so why then also the model isn't generalised? To make you understand this limitation I just want you to remember till now how many objects have you seen and knowtheir identification? Maybe quite large that you can't even count in one go? So how can you expect this model to be so generalised just with 8,000 images, isn't this unfair?   
+Still have question that 8,000 images are sooo much, then also why this model isn't generalised? To make you understand this limitation I just want you to make a count that till now how many objects have you seen and know their identification? Maybe quite large that you can't even count in one go, is it so? So how can you expect this model to be so generalised with just 8,000 images, isn't this unfair?   
 
-And before moving ahead towards code, I would let you know that I can train this model on larger dataset like "MS-COCO" dataset having 300,000+ unique images. But being an undergraduate system I have limited compuational resources. So will try to improve this model further when will have my first salary cheque in my hand. 
+And before moving ahead towards code, I would let you know that I could have trained this model on larger dataset like "MS-COCO" having 300,000+ unique images. But being an undergraduate student I have limited compuational resources. So will try to improve this model further when will have my first salary cheque in my hand.
+
+Now, I think I have told you enough about limitations of my model as of present state, but to be honest this model isn't that bad.
+
+## Time to give you first hand experience of generating caption for image of you choice, but consider the note I have given above.
+Ok so to make you try it on your own I would like you to copy the trained weights and some essential pickeled weights to your Google drive. No need to worry just follow thefollowing steps:-
+
+**step 1)**
